@@ -1,0 +1,14 @@
+<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Item">
+  <TemplateData>
+    <DefaultName>spec.js</DefaultName>
+    <Name>Jasmine Spec</Name>
+    <Description>Jasmine spec, including examples of Sinon spies, stubs and mocks.</Description>
+    <ProjectType>VisualBasic</ProjectType>
+    <Icon>icon.png</Icon>
+    <NumberOfParentCategoriesToRollUp>1</NumberOfParentCategoriesToRollUp>
+  </TemplateData>
+  <TemplateContent>
+    <References />
+    <ProjectItem ReplaceParameters="true">spec.js</ProjectItem>
+  </TemplateContent>
+</VSTemplate>

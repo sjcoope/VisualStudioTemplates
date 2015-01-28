@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TemplateReport>
+  <ItemTemplates>
+    <ItemTemplate Path="ItemTemplates\Web\Angular\Controller\_Definitions\CSharp.vstemplate" Name="AngularJs Controller using 'Controller as'" Description="AngularJs controller using 'Controller as' laid out according to agreed standards." ProjectType="CSharp" ProjectSubType="" />
+    <ItemTemplate Path="ItemTemplates\Web\Jasmine\Spec\_Definitions\CSharp.vstemplate" Name="Jasmine Spec" Description="Jasmine spec, including examples of Sinon spies, stubs and mocks." ProjectType="CSharp" ProjectSubType="" />
+    <ItemTemplate Path="ItemTemplates\Web\Angular\Controller\_Definitions\VB.vstemplate" Name="AngularJs Controller using 'Controller as'" Description="AngularJs controller using 'Controller as' laid out according to agreed standards." ProjectType="VisualBasic" ProjectSubType="" />
+    <ItemTemplate Path="ItemTemplates\Web\Jasmine\Spec\_Definitions\VB.vstemplate" Name="Jasmine Spec" Description="Jasmine spec, including examples of Sinon spies, stubs and mocks." ProjectType="VisualBasic" ProjectSubType="" />
+    <ItemTemplate Path="ItemTemplates\Web\Angular\Controller\_Definitions\Web.csharp.vstemplate" Name="AngularJs Controller using 'Controller as'" Description="AngularJs controller using 'Controller as' laid out according to agreed standards." ProjectType="Web" ProjectSubType="CSharp" />
+    <ItemTemplate Path="ItemTemplates\Web\Jasmine\Spec\_Definitions\Web.csharp.vstemplate" Name="Jasmine Spec" Description="Jasmine spec, including examples of Sinon spies, stubs and mocks." ProjectType="Web" ProjectSubType="CSharp" />
+  </ItemTemplates>
+  <ProjectTemplates />
+  <Snippets />
+</TemplateReport>
